@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=ECE+Student+%40+UIUC;FPGA+%26+Digital+System+Design;Embedded+Hardware+%26+Instrumentation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=FPGA+%26+Digital+System+Design;Embedded+Hardware+%26+Instrumentation" />
 </p>
