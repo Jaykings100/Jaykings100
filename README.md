@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 
-[![Jaykings100's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaykings100&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
