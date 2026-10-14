@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaykings100&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="right">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=ECE+Student+%40+UIUC;FPGA+%26+Digital+System+Design;Embedded+Hardware+%26+Instrumentation" />
 </p>
