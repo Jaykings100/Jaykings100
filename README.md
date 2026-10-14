@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Jason%20Osei-Tutu&fontSize=50&fontAlignY=38&desc=Electrical%20%26%20Computer%20Engineering%20%7C%20UIUC&descAlignY=62&descAlign=50" width="100%"/>
-</p>
 ## Hi there 👋
 
 <!--
